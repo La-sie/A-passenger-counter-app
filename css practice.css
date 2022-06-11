@@ -1,0 +1,44 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: black;
+}
+
+h2 {
+    font-size : 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color : black;
+}
+
+p {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+button{
+    color : black;
+    border-radius : 5px;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border: none;
+    
+}
+
+#increment-btn {
+background-color: darkred;
+}
+
+#save-btn {
+    background: green;
+}
